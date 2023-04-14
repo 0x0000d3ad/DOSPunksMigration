@@ -1,0 +1,51 @@
+{
+  "name": "DOS Punk #939",
+  "image": "https://gpmqvddbd6fkqvzmt4lyjpjlynxdkjc7vvohfpuolfly7i7xtkcq.arweave.net/M9kKjGEfiqhXLJ8XhL0rw241JF-tXHK-jllXj6P3moU/0939.png",
+  "address": "0x6fd6afe08202d7aefdf533ee44dc0e62941c4b22",
+  "os_id": "50586045322935652405689262764889663081015802704882758935723149540763103133697",
+  "os_link": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/50586045322935652405689262764889663081015802704882758935723149540763103133697",
+  "tokenId": 25,
+  "attributes": [
+    {
+      "trait_type": "COMMUNITY PALETTE",
+      "value": "Azure Ultima"
+    },
+    {
+      "trait_type": "NUM CHARS",
+      "value": 17
+    },
+    {
+      "trait_type": "CRYPTOPUNK TYPE",
+      "value": "Female"
+    },
+    {
+      "trait_type": "CP TRAIT 1",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "CP TRAIT 2",
+      "value": "Pink With Hat"
+    },
+    {
+      "trait_type": "CP TRAIT 3",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "CP TRAIT 4",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "CP TRAIT 5",
+      "value": "NA"
+    },
+    {
+      "trait_type": "CP TRAIT 6",
+      "value": "NA"
+    },
+    {
+      "trait_type": "CP TRAIT 7",
+      "value": "NA"
+    }
+  ],
+  "DOSPunkId": 939
+}

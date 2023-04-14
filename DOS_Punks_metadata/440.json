@@ -1,0 +1,51 @@
+{
+  "name": "DOS Punk #938",
+  "image": "https://gpmqvddbd6fkqvzmt4lyjpjlynxdkjc7vvohfpuolfly7i7xtkcq.arweave.net/M9kKjGEfiqhXLJ8XhL0rw241JF-tXHK-jllXj6P3moU/0938.png",
+  "address": "0x6fd6afe08202d7aefdf533ee44dc0e62941c4b22",
+  "os_id": "50586045322935652405689262764889663081015802704882758935723149539663591505921",
+  "os_link": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/50586045322935652405689262764889663081015802704882758935723149539663591505921",
+  "tokenId": 440,
+  "attributes": [
+    {
+      "trait_type": "COMMUNITY PALETTE",
+      "value": "aQuake"
+    },
+    {
+      "trait_type": "NUM CHARS",
+      "value": 45
+    },
+    {
+      "trait_type": "CRYPTOPUNK TYPE",
+      "value": "Male"
+    },
+    {
+      "trait_type": "CP TRAIT 1",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "CP TRAIT 2",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "CP TRAIT 3",
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "CP TRAIT 4",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "CP TRAIT 5",
+      "value": "NA"
+    },
+    {
+      "trait_type": "CP TRAIT 6",
+      "value": "NA"
+    },
+    {
+      "trait_type": "CP TRAIT 7",
+      "value": "NA"
+    }
+  ],
+  "DOSPunkId": 938
+}

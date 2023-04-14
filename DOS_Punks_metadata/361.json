@@ -1,0 +1,51 @@
+{
+  "name": "DOS Punk #863",
+  "image": "https://gpmqvddbd6fkqvzmt4lyjpjlynxdkjc7vvohfpuolfly7i7xtkcq.arweave.net/M9kKjGEfiqhXLJ8XhL0rw241JF-tXHK-jllXj6P3moU/0863.png",
+  "address": "0xbe8a3d01e747c397ffe92709ec8f782e6602f622",
+  "os_id": "86183687183603793108320826266155603664391186218806717785568406028925559373825",
+  "os_link": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/86183687183603793108320826266155603664391186218806717785568406028925559373825",
+  "tokenId": 361,
+  "attributes": [
+    {
+      "trait_type": "COMMUNITY PALETTE",
+      "value": "Coral Crusader"
+    },
+    {
+      "trait_type": "NUM CHARS",
+      "value": 25
+    },
+    {
+      "trait_type": "CRYPTOPUNK TYPE",
+      "value": "Male"
+    },
+    {
+      "trait_type": "CP TRAIT 1",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "CP TRAIT 2",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "CP TRAIT 3",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "CP TRAIT 4",
+      "value": "NA"
+    },
+    {
+      "trait_type": "CP TRAIT 5",
+      "value": "NA"
+    },
+    {
+      "trait_type": "CP TRAIT 6",
+      "value": "NA"
+    },
+    {
+      "trait_type": "CP TRAIT 7",
+      "value": "NA"
+    }
+  ],
+  "DOSPunkId": 863
+}
